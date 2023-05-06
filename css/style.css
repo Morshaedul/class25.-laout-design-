@@ -1,0 +1,25 @@
+.nav{
+    width: 800px;
+    height: 60px;
+    background-color: yellow;
+    margin: 0 auto;
+}
+.nav ul{
+
+}
+.nav ul li{
+    list-style-type: none;
+    float: left;
+    margin: 10px;
+}
+.nav ul li a{
+    text-decoration: none;
+    padding: 10px;
+    font-size: 20px;
+    background-color: aqua;
+
+
+}
+.nav ul li a:hover{
+
+}
